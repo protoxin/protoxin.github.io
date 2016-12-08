@@ -20,6 +20,8 @@ url: https://exploit.protoxin.net
 menu:
   - title: 'Home'
     url: '/'
+  - title: 'About'
+    url: '/about'
   - title: 'Tags'
     url: '/tags'
   - title: 'Categories'
