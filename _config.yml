@@ -27,19 +27,19 @@ menu:
     type: 'categories'
   - title: 'Favorites'
     url: '#'
-    submenu:
-      - title: 'Code Highlighter'
-        url: '/intro/code-highlighting-post/'
-      - title: 'Sample Post'
-        url: '/intro/sample-post/'
+#    submenu:
+#      - title: 'Code Highlighter'
+#        url: '/intro/code-highlighting-post/'
+#      - title: 'Sample Post'
+#        url: '/intro/sample-post/'
 
 # Owner/author information
 owner:
-  name:           Your name
-  site:           http://aronbordin.com
+  name:           ProToxin
+  site:           https://protoxin.net
   avatar:         images/avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  email:
   # Twitter nick for use in Twitter cards and follow button.
   twitter: aron_bordin # if no twitter in this config, the twitter follow button will be removed
   # GitHub nick for use in follow button in author block.
@@ -52,11 +52,11 @@ twitter:
 # Social networking links used in author block underneath posts. Update and remove as you like.
 social:
   - title: "github"
-    url: "https://github.com/aron-bordin"
+    url: ""
   - title: "linkedin"
-    url: "https://br.linkedin.com/in/aronbordin"
+    url: ""
   - title: "youtube"
-    url: "https://www.youtube.com/channel/UCfnSek-9HPWOx5e2pH7VFgg"
+    url: ""
 
 # Background image to be tiled on all pages
 background:
