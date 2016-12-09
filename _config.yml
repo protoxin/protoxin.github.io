@@ -27,6 +27,8 @@ menu:
   - title: 'Categories'
     url: '/categories'
     type: 'categories'
+  - title: 'Main Site'
+    url: 'https://protoxin.net'
 #    submenu:
 #      - title: 'Code Highlighter'
 #        url: '/intro/code-highlighting-post/'
